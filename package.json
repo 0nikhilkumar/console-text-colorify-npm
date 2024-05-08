@@ -1,0 +1,25 @@
+{
+  "name": "console_text_colorify",
+  "version": "1.0.0",
+  "description": "A library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify logs",
+    "console_text_colorify",
+    "nikhil_kumar"
+  ],
+  "author": "Nikhil Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
